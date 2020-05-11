@@ -43,6 +43,9 @@ namespace C__OOP_assignment
       }
     }
     class OilPainting : Painting {
+      //Use auto-implemented property to set medium to read-only value of "oil" in this class
+      //and hide the property of the base, painting, class.
+      public new string Medium {get;} = "oil";
       private string support;
       public string Support {
         get {
@@ -52,7 +55,7 @@ namespace C__OOP_assignment
         }
       }
       public override string describe() {
-        return $"{this.Name} by {this.Painter}: Oil, {this.Year}.";
+        return $"{this.Name} by {this.Painter}, oil on {this.Support}, {this.Year}.";
       }
     }
     static void Main(string[] args)
@@ -60,9 +63,13 @@ namespace C__OOP_assignment
         OilPainting monaLisa = new OilPainting();
         monaLisa.Name = "Mona Lisa";
         monaLisa.Painter = "Leonardo da Vinci";
+        //The following line will give an error if uncommented. Medium is read-only for this class.
+        //monaLisa.Medium = "Oil";
         monaLisa.Year = 1503;
         monaLisa.Support = "canvas";
         Console.WriteLine( monaLisa.describe());
+        //The medium can be read.
+        Console.WriteLine( monaLisa.Medium);
     }
   }
 }

@@ -1,0 +1,11 @@
+C:\Users\Martin\Documents\SoftwareDevelopment\C#-OOP-assignment\bin\Debug\netcoreapp3.1\C#-OOP-assignment.exe
+C:\Users\Martin\Documents\SoftwareDevelopment\C#-OOP-assignment\bin\Debug\netcoreapp3.1\C#-OOP-assignment.deps.json
+C:\Users\Martin\Documents\SoftwareDevelopment\C#-OOP-assignment\bin\Debug\netcoreapp3.1\C#-OOP-assignment.runtimeconfig.json
+C:\Users\Martin\Documents\SoftwareDevelopment\C#-OOP-assignment\bin\Debug\netcoreapp3.1\C#-OOP-assignment.runtimeconfig.dev.json
+C:\Users\Martin\Documents\SoftwareDevelopment\C#-OOP-assignment\bin\Debug\netcoreapp3.1\C#-OOP-assignment.dll
+C:\Users\Martin\Documents\SoftwareDevelopment\C#-OOP-assignment\bin\Debug\netcoreapp3.1\C#-OOP-assignment.pdb
+C:\Users\Martin\Documents\SoftwareDevelopment\C#-OOP-assignment\obj\Debug\netcoreapp3.1\C#-OOP-assignment.csprojAssemblyReference.cache
+C:\Users\Martin\Documents\SoftwareDevelopment\C#-OOP-assignment\obj\Debug\netcoreapp3.1\C#-OOP-assignment.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\SoftwareDevelopment\C#-OOP-assignment\obj\Debug\netcoreapp3.1\C#-OOP-assignment.AssemblyInfo.cs
+C:\Users\Martin\Documents\SoftwareDevelopment\C#-OOP-assignment\obj\Debug\netcoreapp3.1\C#-OOP-assignment.dll
+C:\Users\Martin\Documents\SoftwareDevelopment\C#-OOP-assignment\obj\Debug\netcoreapp3.1\C#-OOP-assignment.pdb
